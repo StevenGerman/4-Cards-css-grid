@@ -84,16 +84,16 @@ body{
 }
 
 .supervisor{
-    box-shadow: inset 0px 3px hsl(180, 62%, 55%),0px 5px 50px #bbb;
+    box-shadow: inset 0px 3px hsl(180, 62%, 55%),0px 5px 10px hsl(229, 6%, 66%);
 }
 .team-builder{
-    box-shadow: inset 0px 3px hsl(0, 78%, 62%),0px 10px 10px #ccc;
+    box-shadow: inset 0px 3px hsl(0, 78%, 62%),0px 5px 10px hsl(229, 6%, 66%);
 }
 .karma{
-    box-shadow: inset 0px 3px hsl(34, 97%, 64%),0px 10px 10px #ccc;
+    box-shadow: inset 0px 3px hsl(34, 97%, 64%),0px 5px 10px hsl(229, 6%, 66%);
 }
 .calculator{
-    box-shadow: inset 0px 3px hsl(212, 86%, 64%),0px 10px 10px #ccc;
+    box-shadow: inset 0px 3px hsl(212, 86%, 64%),0px 5px 10px hsl(229, 6%, 66%);
 }
 
 @media (min-width: 600px){
@@ -166,17 +166,17 @@ body{
     }
 
     .supervisor{
-        box-shadow: inset 0px 3px hsl(180, 62%, 55%),0px 10px 10px #ccc;
+        box-shadow: inset 0px 3px hsl(180, 62%, 55%),0px 10px 40px #ccc;
         margin-right: -20px;
     }
     .team-builder{
-        box-shadow: inset 0px 3px hsl(0, 78%, 62%),0px 10px 10px #ccc;
+        box-shadow: inset 0px 3px hsl(0, 78%, 62%),0px 10px 40px #ccc;
     }
     .karma{
-        box-shadow: inset 0px 3px hsl(34, 97%, 64%),0px 10px 10px #ccc;
+        box-shadow: inset 0px 3px hsl(34, 97%, 64%),0px 10px 40px #ccc;
     }
     .calculator{
-        box-shadow: inset 0px 3px hsl(212, 86%, 64%),0px 10px 10px #ccc;
+        box-shadow: inset 0px 3px hsl(212, 86%, 64%),0px 10px 40px #ccc;
         margin-left: -20px;
     }
 } 
