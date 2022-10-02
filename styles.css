@@ -167,6 +167,7 @@ body{
 
     .supervisor{
         box-shadow: inset 0px 3px hsl(180, 62%, 55%),0px 10px 10px #ccc;
+        margin-right: -20px;
     }
     .team-builder{
         box-shadow: inset 0px 3px hsl(0, 78%, 62%),0px 10px 10px #ccc;
@@ -176,6 +177,7 @@ body{
     }
     .calculator{
         box-shadow: inset 0px 3px hsl(212, 86%, 64%),0px 10px 10px #ccc;
+        margin-left: -20px;
     }
 } 
 
