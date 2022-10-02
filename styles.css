@@ -46,7 +46,8 @@ body{
     grid-template-rows: repeat(4,1fr);
 }
 .card {
-    background-color: antiquewhite;
+    background-color: hsl(0, 0%, 98%);
+    /*background-color: antiquewhite;*/
     margin: 10px auto;
     height: 220px;
     width: 90%;
@@ -79,4 +80,18 @@ body{
     object-fit: cover;
     margin-right: 20px;
 
+}
+
+
+.supervisor{
+    box-shadow: inset 0px 3px hsl(180, 62%, 55%);
+}
+.team-builder{
+    box-shadow: inset 0px 3px hsl(0, 78%, 62%);
+}
+.karma{
+    box-shadow: inset 0px 3px hsl(34, 97%, 64%);
+}
+.calculator{
+    box-shadow: inset 0px 3px hsl(212, 86%, 64%);
 }
